@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="toast">Нажмите на кнопку, чтобы получить уведомление</string>
+    <string name="message">Сообщение</string>
+    <string name="image_toast">Ежик</string>
+    <string name="message1">Хорошего дня)</string>
+    <string name="hedgehoh">hedgehoh</string>
+</resources>
